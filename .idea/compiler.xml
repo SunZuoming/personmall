@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="personmall-api" />
+        <module name="personmall-common-util" />
+        <module name="personmall-service-util" />
+        <module name="personmall-user-service" />
+        <module name="personmall-user-web" />
+        <module name="personmall-web-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="personmall-api" target="1.5" />
+      <module name="personmall-common-util" target="1.8" />
+      <module name="personmall-parent" target="1.8" />
+      <module name="personmall-service-util" target="1.8" />
+      <module name="personmall-user" target="1.8" />
+      <module name="personmall-user-service" target="1.8" />
+      <module name="personmall-user-web" target="1.8" />
+      <module name="personmall-util" target="1.5" />
+      <module name="personmall-web-util" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

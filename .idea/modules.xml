@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/personmall.iml" filepath="$PROJECT_DIR$/.idea/personmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personmall-api/personmall-api.iml" filepath="$PROJECT_DIR$/personmall-api/personmall-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personmall-common-util/personmall-common-util.iml" filepath="$PROJECT_DIR$/personmall-common-util/personmall-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personmall-parent/personmall-parent.iml" filepath="$PROJECT_DIR$/personmall-parent/personmall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personmall-service-util/personmall-service-util.iml" filepath="$PROJECT_DIR$/personmall-service-util/personmall-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personmall-user-service/personmall-user-service.iml" filepath="$PROJECT_DIR$/personmall-user-service/personmall-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personmall-user-web/personmall-user-web.iml" filepath="$PROJECT_DIR$/personmall-user-web/personmall-user-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personmall-web-util/personmall-web-util.iml" filepath="$PROJECT_DIR$/personmall-web-util/personmall-web-util.iml" />
+    </modules>
+  </component>
+</project>
