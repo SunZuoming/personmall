@@ -1,7 +1,10 @@
 # 一、personmall
 服务器用的阿里云服务器，搭好项目先在服务器上安装jdk MySQL zookeeper tomcat redis 等
-#
-打包springboot 启动:nohup java -jar 包名
+# 打包
+打包springboot 
+按照架构依次打包  
+只有user服务两个jar包，将两个jar包放到服务器上，启动:nohup java -jar 包名 &  
+url测试http://115.28.184.173:8060/getAllUser  
 # 二、安装遇到的问题
 ## java： 
 sudo tar -zxvf jdk-8u152-linux-x64.tar.gz -C /usr/local/java/ 
